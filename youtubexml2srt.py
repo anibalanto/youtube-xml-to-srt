@@ -1,4 +1,4 @@
-# Usage: python tt2srt.py source.xml output.srt
+# Usage: python youtubexml2srt.py source.xml output.srt
 
 from xml.dom.minidom import parse
 import datetime
